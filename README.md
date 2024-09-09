@@ -22,6 +22,6 @@ To get started with Celebrare locally, follow these steps:
    ```bash
    npm install next@14.2.8 react@^18 react-dom@^18 react-draggable@^4.4.6 react-icons@^5.3.0
 4. **Run the development server:**
-  ```bash
-   npm run dev
+   ```bash
+    npm run dev
    
