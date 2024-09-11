@@ -13,7 +13,7 @@ To get started with Celebrare locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/aerick8602/Celebrare.git)
 2. **Navigate to the project directory:**
    ```bash
    cd celebrate
